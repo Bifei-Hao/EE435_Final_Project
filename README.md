@@ -28,6 +28,8 @@ python run_reconstruction.py \
 
 code of ELic is in $\texttt{EE435.ipynb}$, follow the code.
 
+You can find checkpoint in [checkpoint_last_99.pth.tar](https://drive.google.com/file/d/1710Yuq5-TZMstpU0v1rOfgFFRipa33xL/view?usp=sharing) and [checkpoint_best_loss_97.pth.tar](https://drive.google.com/file/d/16qiZdtKa8v9yRufsSBlX-Ii9V2to4_HX/view?usp=share_link)
+
 
 
 
